@@ -1,0 +1,7 @@
+registrationTests/RegistrationTest.class
+junitTests/JunitTest.class
+junitTests/SuiteClasses.class
+suits/SuiteRegistrationPage.class
+testNgTests/TestNgTest.class
+baseTest/BaseTest.class
+suits/ParallelTests.class

@@ -1,0 +1,201 @@
+2021-16-08 12:24:14   INFO [RegistrationTest:68  ] : Open url - http://automationpractice.com
+2021-16-08 12:24:18   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (319bba49e4793cc5f2f0435b984fb19f)] -> xpath: //a[@class='login']]
+2021-16-08 12:24:18   INFO [WebElements:31  ] : elroy.berge@gmail.com was inputted
+2021-16-08 12:24:18   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (319bba49e4793cc5f2f0435b984fb19f)] -> name: SubmitCreate]
+2021-16-08 12:24:20   INFO [WebElements:63  ] : Checkbox is initially checked
+2021-16-08 12:24:20   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 12:24:20   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 12:24:20   INFO [WebElements:31  ] : chi.skiles@gmail.com was inputted
+2021-16-08 12:24:20   INFO [WebElements:31  ] : qwerty312 was inputted
+2021-16-08 12:24:20   INFO [WebElements:122 ] : Was selected is DropDown by value 22
+2021-16-08 12:24:21   INFO [WebElements:122 ] : Was selected is DropDown by value 11
+2021-16-08 12:24:21   INFO [WebElements:122 ] : Was selected is DropDown by value 1989
+2021-16-08 12:24:21   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 12:24:21   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 12:24:21   INFO [WebElements:31  ] : NNN was inputted
+2021-16-08 12:24:21   INFO [WebElements:31  ] : street New York, 12 was inputted
+2021-16-08 12:24:21   INFO [WebElements:31  ] : street New York, 14 was inputted
+2021-16-08 12:24:21   INFO [WebElements:31  ] : New York was inputted
+2021-16-08 12:24:21   INFO [WebElements:141 ] : Was selected is DropDown by text New York
+2021-16-08 12:24:21   INFO [WebElements:31  ] : 12345 was inputted
+2021-16-08 12:24:22   INFO [WebElements:141 ] : Was selected is DropDown by text United States
+2021-16-08 12:24:22   INFO [WebElements:31  ] : 1111111111 was inputted
+2021-16-08 12:24:22   INFO [WebElements:31  ] : Anna's home was inputted
+2021-16-08 12:24:34   INFO [WebElements:46  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@name='submitAccount']'
+2021-16-08 12:24:35   INFO [     Utils:25  ] : ScreenShot /Users/apozina/IdeaProjects/lesson9\resources\screenshotregistrationTests\RegistrationTest.png
+2021-16-08 12:33:31   INFO [RegistrationTest:68  ] : Open url - http://automationpractice.com
+2021-16-08 12:33:33   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (ac4bd9056f105f3c7deb4a541f7c722b)] -> xpath: //a[@class='login']]
+2021-16-08 12:33:34   INFO [WebElements:31  ] : mariano.flatley@gmail.com was inputted
+2021-16-08 12:33:34   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (ac4bd9056f105f3c7deb4a541f7c722b)] -> name: SubmitCreate]
+2021-16-08 12:33:36   INFO [WebElements:63  ] : Checkbox is initially checked
+2021-16-08 12:33:36   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 12:33:36   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 12:33:36   INFO [WebElements:31  ] : niesha.herzog@gmail.com was inputted
+2021-16-08 12:33:36   INFO [WebElements:31  ] : qwerty312 was inputted
+2021-16-08 12:33:36   INFO [WebElements:122 ] : Was selected is DropDown by value 22
+2021-16-08 12:33:37   INFO [WebElements:122 ] : Was selected is DropDown by value 11
+2021-16-08 12:33:37   INFO [WebElements:122 ] : Was selected is DropDown by value 1989
+2021-16-08 12:33:37   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 12:33:37   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 12:33:37   INFO [WebElements:31  ] : NNN was inputted
+2021-16-08 12:33:37   INFO [WebElements:31  ] : street New York, 12 was inputted
+2021-16-08 12:33:37   INFO [WebElements:31  ] : street New York, 14 was inputted
+2021-16-08 12:33:37   INFO [WebElements:31  ] : New York was inputted
+2021-16-08 12:33:37   INFO [WebElements:141 ] : Was selected is DropDown by text New York
+2021-16-08 12:33:37   INFO [WebElements:31  ] : 12345 was inputted
+2021-16-08 12:33:37   INFO [WebElements:141 ] : Was selected is DropDown by text United States
+2021-16-08 12:33:38   INFO [WebElements:31  ] : 1111111111 was inputted
+2021-16-08 12:33:38   INFO [WebElements:31  ] : Anna's home was inputted
+2021-16-08 12:33:49   INFO [WebElements:46  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@name='submitAccount']'
+2021-16-08 12:33:50   INFO [     Utils:25  ] : ScreenShot /Users/apozina/IdeaProjects/lesson9\resources\screenshotregistrationTests\RegistrationTest.png
+2021-16-08 12:38:20   INFO [RegistrationTest:68  ] : Open url - http://automationpractice.com
+2021-16-08 12:38:23   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (ab8adcec1de1121810048375048248f7)] -> xpath: //a[@class='login']]
+2021-16-08 12:38:23   INFO [WebElements:31  ] : audry.robel@gmail.com was inputted
+2021-16-08 12:38:23   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (ab8adcec1de1121810048375048248f7)] -> name: SubmitCreate]
+2021-16-08 12:38:25   INFO [WebElements:63  ] : Checkbox is initially checked
+2021-16-08 12:38:25   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 12:38:25   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 12:38:26   INFO [WebElements:31  ] : camie.breitenberg@hotmail.com was inputted
+2021-16-08 12:38:26   INFO [WebElements:31  ] : qwerty312 was inputted
+2021-16-08 12:38:26   INFO [WebElements:122 ] : Was selected is DropDown by value 22
+2021-16-08 12:38:26   INFO [WebElements:122 ] : Was selected is DropDown by value 11
+2021-16-08 12:38:26   INFO [WebElements:122 ] : Was selected is DropDown by value 1989
+2021-16-08 12:38:26   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 12:38:26   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 12:38:26   INFO [WebElements:31  ] : NNN was inputted
+2021-16-08 12:38:27   INFO [WebElements:31  ] : street New York, 12 was inputted
+2021-16-08 12:38:27   INFO [WebElements:31  ] : street New York, 14 was inputted
+2021-16-08 12:38:27   INFO [WebElements:31  ] : New York was inputted
+2021-16-08 12:38:27   INFO [WebElements:141 ] : Was selected is DropDown by text New York
+2021-16-08 12:38:27   INFO [WebElements:31  ] : 12345 was inputted
+2021-16-08 12:38:27   INFO [WebElements:141 ] : Was selected is DropDown by text United States
+2021-16-08 12:38:27   INFO [WebElements:31  ] : 1111111111 was inputted
+2021-16-08 12:38:27   INFO [WebElements:31  ] : Anna's home was inputted
+2021-16-08 12:38:39   INFO [WebElements:46  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@name='submitAccount']'
+2021-16-08 12:38:40   INFO [     Utils:25  ] : ScreenShot /Users/apozina/IdeaProjects/lesson9\resources\screenshotregistrationTests\RegistrationTest.png
+2021-16-08 13:00:54   INFO [RegistrationTest:68  ] : Open url - http://automationpractice.com
+2021-16-08 13:00:58   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (68b97e1c397effed89f8257316bec6e7)] -> xpath: //a[@class='login']]
+2021-16-08 13:00:58   INFO [WebElements:31  ] : frederic.langosh@gmail.com was inputted
+2021-16-08 13:00:58   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (68b97e1c397effed89f8257316bec6e7)] -> name: SubmitCreate]
+2021-16-08 13:00:59   INFO [WebElements:63  ] : Checkbox is initially checked
+2021-16-08 13:00:59   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 13:00:59   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 13:01:00   INFO [WebElements:31  ] : denis.stanton@yahoo.com was inputted
+2021-16-08 13:01:00   INFO [WebElements:31  ] : qwerty312 was inputted
+2021-16-08 13:01:00   INFO [WebElements:122 ] : Was selected is DropDown by value 22
+2021-16-08 13:01:00   INFO [WebElements:122 ] : Was selected is DropDown by value 11
+2021-16-08 13:01:00   INFO [WebElements:122 ] : Was selected is DropDown by value 1989
+2021-16-08 13:01:00   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 13:01:00   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 13:01:00   INFO [WebElements:31  ] : NNN was inputted
+2021-16-08 13:01:01   INFO [WebElements:31  ] : street New York, 12 was inputted
+2021-16-08 13:01:01   INFO [WebElements:31  ] : street New York, 14 was inputted
+2021-16-08 13:01:01   INFO [WebElements:31  ] : New York was inputted
+2021-16-08 13:01:01   INFO [WebElements:141 ] : Was selected is DropDown by text New York
+2021-16-08 13:01:01   INFO [WebElements:31  ] : 12345 was inputted
+2021-16-08 13:01:01   INFO [WebElements:141 ] : Was selected is DropDown by text United States
+2021-16-08 13:01:01   INFO [WebElements:31  ] : 1111111111 was inputted
+2021-16-08 13:01:01   INFO [WebElements:31  ] : Anna's home was inputted
+2021-16-08 13:01:17   INFO [WebElements:46  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@name='submitAccount']'
+2021-16-08 13:01:18   INFO [     Utils:25  ] : ScreenShot /Users/apozina/IdeaProjects/lesson9\resources\screenshotregistrationTests\RegistrationTest.png
+2021-16-08 13:41:04   INFO [RegistrationTest:68  ] : Open url - http://automationpractice.com
+2021-16-08 13:41:10   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (e1d4676bd81127ec2a698f18657c88d4)] -> xpath: //a[@class='login']]
+2021-16-08 13:41:10   INFO [WebElements:31  ] : elliott.wolf@yahoo.com was inputted
+2021-16-08 13:41:10   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (e1d4676bd81127ec2a698f18657c88d4)] -> name: SubmitCreate]
+2021-16-08 13:41:11   INFO [WebElements:63  ] : Checkbox is initially checked
+2021-16-08 13:41:12   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 13:41:12   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 13:41:12   INFO [WebElements:31  ] : bertram.hoppe@yahoo.com was inputted
+2021-16-08 13:41:12   INFO [WebElements:31  ] : qwerty312 was inputted
+2021-16-08 13:41:12   INFO [WebElements:122 ] : Was selected is DropDown by value 22
+2021-16-08 13:41:13   INFO [WebElements:122 ] : Was selected is DropDown by value 11
+2021-16-08 13:41:13   INFO [WebElements:122 ] : Was selected is DropDown by value 1989
+2021-16-08 13:41:13   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 13:41:13   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 13:41:13   INFO [WebElements:31  ] : NNN was inputted
+2021-16-08 13:41:13   INFO [WebElements:31  ] : street New York, 12 was inputted
+2021-16-08 13:41:13   INFO [WebElements:31  ] : street New York, 14 was inputted
+2021-16-08 13:41:14   INFO [WebElements:31  ] : New York was inputted
+2021-16-08 13:41:14   INFO [WebElements:141 ] : Was selected is DropDown by text New York
+2021-16-08 13:41:14   INFO [WebElements:31  ] : 12345 was inputted
+2021-16-08 13:41:14   INFO [WebElements:141 ] : Was selected is DropDown by text United States
+2021-16-08 13:41:14   INFO [WebElements:31  ] : 1111111111 was inputted
+2021-16-08 13:41:14   INFO [WebElements:31  ] : Anna's home was inputted
+2021-16-08 13:41:32   INFO [WebElements:46  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@name='submitAccount']'
+2021-16-08 13:41:32   INFO [     Utils:25  ] : ScreenShot /Users/apozina/IdeaProjects/lesson9\resources\screenshotregistrationTests\RegistrationTest.png
+2021-16-08 15:28:05   INFO [RegistrationTest:68  ] : Open url - http://automationpractice.com
+2021-16-08 15:28:05   INFO [RegistrationTest:68  ] : Open url - http://automationpractice.com
+2021-16-08 15:28:07   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (d3e8a3c750065c0877edd57990b63789)] -> xpath: //a[@class='login']]
+2021-16-08 15:28:08   INFO [WebElements:31  ] : ross.von@gmail.com was inputted
+2021-16-08 15:28:08   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (d3e8a3c750065c0877edd57990b63789)] -> name: SubmitCreate]
+2021-16-08 15:28:09   INFO [WebElements:63  ] : Checkbox is initially checked
+2021-16-08 15:28:09   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 15:28:09   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 15:28:10   INFO [WebElements:31  ] : basil.leuschke@hotmail.com was inputted
+2021-16-08 15:28:10   INFO [WebElements:31  ] : qwerty312 was inputted
+2021-16-08 15:28:10   INFO [WebElements:122 ] : Was selected is DropDown by value 22
+2021-16-08 15:28:10   INFO [WebElements:122 ] : Was selected is DropDown by value 11
+2021-16-08 15:28:10   INFO [WebElements:122 ] : Was selected is DropDown by value 1989
+2021-16-08 15:28:10   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 15:28:10   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 15:28:10   INFO [WebElements:31  ] : NNN was inputted
+2021-16-08 15:28:10   INFO [WebElements:31  ] : street New York, 12 was inputted
+2021-16-08 15:28:11   INFO [WebElements:31  ] : street New York, 14 was inputted
+2021-16-08 15:28:11   INFO [WebElements:31  ] : New York was inputted
+2021-16-08 15:28:11   INFO [WebElements:141 ] : Was selected is DropDown by text New York
+2021-16-08 15:28:11   INFO [WebElements:31  ] : 12345 was inputted
+2021-16-08 15:28:11   INFO [WebElements:141 ] : Was selected is DropDown by text United States
+2021-16-08 15:28:11   INFO [WebElements:31  ] : 1111111111 was inputted
+2021-16-08 15:28:11   INFO [WebElements:31  ] : Anna's home was inputted
+2021-16-08 15:28:23   INFO [WebElements:46  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@name='submitAccount']'
+2021-16-08 15:28:23   INFO [     Utils:25  ] : ScreenShot /Users/apozina/IdeaProjects/lesson9\resources\screenshotregistrationTests\RegistrationTest.png
+2021-16-08 15:36:55   INFO [RegistrationTest:68  ] : Open url - http://automationpractice.com
+2021-16-08 15:36:55   INFO [RegistrationTest:68  ] : Open url - http://automationpractice.com
+2021-16-08 15:36:58   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (e9ae1ddb8676ff6e2dfdbca2514de0cd)] -> xpath: //a[@class='login']]
+2021-16-08 15:36:58   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (6c46913ac4c22a9ff34364f390878d70)] -> xpath: //a[@class='login']]
+2021-16-08 15:36:58   INFO [WebElements:31  ] : gonzalo.kihn@hotmail.com was inputted
+2021-16-08 15:36:58   INFO [WebElements:31  ] : enedina.schroeder@hotmail.com was inputted
+2021-16-08 15:36:58   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (6c46913ac4c22a9ff34364f390878d70)] -> name: SubmitCreate]
+2021-16-08 15:36:58   INFO [WebElements:46  ] : Element was clicked [[ChromeDriver: chrome on MAC (e9ae1ddb8676ff6e2dfdbca2514de0cd)] -> name: SubmitCreate]
+2021-16-08 15:37:00   INFO [WebElements:63  ] : Checkbox is initially checked
+2021-16-08 15:37:00   INFO [WebElements:63  ] : Checkbox is initially checked
+2021-16-08 15:37:00   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 15:37:00   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 15:37:00   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 15:37:00   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 15:37:00   INFO [WebElements:31  ] : freeman.olson@gmail.com was inputted
+2021-16-08 15:37:00   INFO [WebElements:31  ] : gavin.yost@yahoo.com was inputted
+2021-16-08 15:37:01   INFO [WebElements:31  ] : qwerty312 was inputted
+2021-16-08 15:37:01   INFO [WebElements:31  ] : qwerty312 was inputted
+2021-16-08 15:37:01   INFO [WebElements:122 ] : Was selected is DropDown by value 22
+2021-16-08 15:37:01   INFO [WebElements:122 ] : Was selected is DropDown by value 22
+2021-16-08 15:37:01   INFO [WebElements:122 ] : Was selected is DropDown by value 11
+2021-16-08 15:37:01   INFO [WebElements:122 ] : Was selected is DropDown by value 11
+2021-16-08 15:37:01   INFO [WebElements:122 ] : Was selected is DropDown by value 1989
+2021-16-08 15:37:01   INFO [WebElements:122 ] : Was selected is DropDown by value 1989
+2021-16-08 15:37:01   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 15:37:01   INFO [WebElements:31  ] : Anna was inputted
+2021-16-08 15:37:01   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 15:37:01   INFO [WebElements:31  ] : Pozina was inputted
+2021-16-08 15:37:01   INFO [WebElements:31  ] : NNN was inputted
+2021-16-08 15:37:01   INFO [WebElements:31  ] : NNN was inputted
+2021-16-08 15:37:01   INFO [WebElements:31  ] : street New York, 12 was inputted
+2021-16-08 15:37:02   INFO [WebElements:31  ] : street New York, 12 was inputted
+2021-16-08 15:37:02   INFO [WebElements:31  ] : street New York, 14 was inputted
+2021-16-08 15:37:02   INFO [WebElements:31  ] : street New York, 14 was inputted
+2021-16-08 15:37:02   INFO [WebElements:31  ] : New York was inputted
+2021-16-08 15:37:02   INFO [WebElements:31  ] : New York was inputted
+2021-16-08 15:37:02   INFO [WebElements:141 ] : Was selected is DropDown by text New York
+2021-16-08 15:37:02   INFO [WebElements:141 ] : Was selected is DropDown by text New York
+2021-16-08 15:37:02   INFO [WebElements:31  ] : 12345 was inputted
+2021-16-08 15:37:02   INFO [WebElements:141 ] : Was selected is DropDown by text United States
+2021-16-08 15:37:02   INFO [WebElements:31  ] : 12345 was inputted
+2021-16-08 15:37:02   INFO [WebElements:141 ] : Was selected is DropDown by text United States
+2021-16-08 15:37:02   INFO [WebElements:31  ] : 1111111111 was inputted
+2021-16-08 15:37:02   INFO [WebElements:31  ] : 1111111111 was inputted
+2021-16-08 15:37:02   INFO [WebElements:31  ] : Anna's home was inputted
+2021-16-08 15:37:02   INFO [WebElements:31  ] : Anna's home was inputted
+2021-16-08 15:37:15   INFO [WebElements:46  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@name='submitAccount']'
+2021-16-08 15:37:15   INFO [WebElements:46  ] : Element was clicked Proxy element for: DefaultElementLocator 'By.xpath: //button[@name='submitAccount']'
+2021-16-08 15:37:15   INFO [     Utils:25  ] : ScreenShot /Users/apozina/IdeaProjects/lesson9\resources\screenshotregistrationTests\RegistrationTest.png
+2021-16-08 15:37:16   INFO [     Utils:25  ] : ScreenShot /Users/apozina/IdeaProjects/lesson9\resources\screenshotregistrationTests\RegistrationTest.png

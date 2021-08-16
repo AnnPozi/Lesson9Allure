@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd8a5282-c05a-4092-916f-061f7bada2e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/allure-results/executor.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/logs.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/logs.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RegistrationTests/ChromeTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RegistrationTests/ChromeTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RegistrationTests/ChromeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RegistrationTests/ChromeTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RegistrationTests/FirefoxTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RegistrationTests/FirefoxTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/RegistrationTests/FirefoxTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/RegistrationTests/FirefoxTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-registrationTests.RegistrationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-registrationTests.RegistrationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/RegistrationTests/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/RegistrationTests/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/RegistrationTests/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/RegistrationTests/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1wmAWXMpyIm6a1BoEJ6y7klBJw4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.RegistrationTest.testCreateNewAccount">
+    <configuration name="SuiteRegistrationPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lesson9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="suits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="suits" />
+      <option name="MAIN_CLASS_NAME" value="suits.SuiteRegistrationPage" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelTests.runAllTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="suits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="suits" />
+      <option name="MAIN_CLASS_NAME" value="suits.ParallelTests" />
+      <option name="METHOD_NAME" value="runAllTests" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registrationTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registrationTests" />
+      <option name="MAIN_CLASS_NAME" value="registrationTests.RegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistrationTest.testCreateNewAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="registrationTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="registrationTests" />
+      <option name="MAIN_CLASS_NAME" value="registrationTests.RegistrationTest" />
+      <option name="METHOD_NAME" value="testCreateNewAccount" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNgTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNgTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNgTests" />
+      <option name="MAIN_CLASS_NAME" value="testNgTests.TestNgTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.RegistrationTest.testCreateNewAccount" />
+        <item itemvalue="TestNG.RegistrationTest" />
+        <item itemvalue="JUnit.SuiteRegistrationPage" />
+        <item itemvalue="TestNG.ParallelTests.runAllTests" />
+        <item itemvalue="TestNG.TestNgTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd8a5282-c05a-4092-916f-061f7bada2e4" name="Default Changelist" comment="" />
+      <created>1629053421522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629053421522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

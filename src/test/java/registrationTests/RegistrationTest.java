@@ -2,10 +2,12 @@ package registrationTests;
 
 import baseTest.BaseTest;
 import dataProviders.RegistrationPageDataProvider;
+
 import io.qameta.allure.*;
 import model.Account;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+
 
 public class RegistrationTest extends BaseTest {
 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-08-16T13:46:45Z" name="RegistrationTests" finished-at="2021-08-16T13:47:41Z" duration-ms="55893">
+  <suite started-at="2021-08-17T09:56:29Z" name="RegistrationTests" finished-at="2021-08-17T09:56:55Z" duration-ms="26439">
     <groups>
     </groups>
-    <test started-at="2021-08-16T13:46:45Z" name="FirefoxTest" finished-at="2021-08-16T13:47:41Z" duration-ms="55640">
+    <test started-at="2021-08-17T09:56:29Z" name="ChromeTest" finished-at="2021-08-17T09:56:55Z" duration-ms="26439">
       <class name="registrationTests.RegistrationTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:registrationTests.RegistrationTest@4da4253]" started-at="2021-08-16T13:46:45Z" name="setUp" finished-at="2021-08-16T13:47:00Z" duration-ms="14423" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:registrationTests.RegistrationTest@61861a29]" started-at="2021-08-17T09:56:29Z" name="setUp" finished-at="2021-08-17T09:56:37Z" duration-ms="8021" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,48 +18,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testCreateNewAccount(model.Account)[pri:0, instance:registrationTests.RegistrationTest@4da4253]" started-at="2021-08-16T13:47:00Z" name="testCreateNewAccount" data-provider="registrationNewUser" finished-at="2021-08-16T13:47:40Z" duration-ms="39694" status="PASS">
+        <test-method signature="testCreateNewAccount(model.Account)[pri:0, instance:registrationTests.RegistrationTest@61861a29]" started-at="2021-08-17T09:56:37Z" name="testCreateNewAccount" data-provider="registrationNewUser" finished-at="2021-08-17T09:56:54Z" duration-ms="17438" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[model.Account@7fd9a49c]]>
+                <![CDATA[model.Account@1b7759c3]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreateNewAccount -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:registrationTests.RegistrationTest@4da4253]" started-at="2021-08-16T13:47:40Z" name="tearDown" finished-at="2021-08-16T13:47:41Z" duration-ms="1370" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- registrationTests.RegistrationTest -->
-    </test> <!-- FirefoxTest -->
-    <test started-at="2021-08-16T13:46:45Z" name="ChromeTest" finished-at="2021-08-16T13:47:41Z" duration-ms="55893">
-      <class name="registrationTests.RegistrationTest">
-        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:registrationTests.RegistrationTest@c03cf28]" started-at="2021-08-16T13:46:45Z" name="setUp" finished-at="2021-08-16T13:47:01Z" duration-ms="15775" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="testCreateNewAccount(model.Account)[pri:0, instance:registrationTests.RegistrationTest@c03cf28]" started-at="2021-08-16T13:47:01Z" name="testCreateNewAccount" data-provider="registrationNewUser" finished-at="2021-08-16T13:47:40Z" duration-ms="39183" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[model.Account@18beec65]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCreateNewAccount -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:registrationTests.RegistrationTest@c03cf28]" started-at="2021-08-16T13:47:40Z" name="tearDown" finished-at="2021-08-16T13:47:41Z" duration-ms="887" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:registrationTests.RegistrationTest@61861a29]" started-at="2021-08-17T09:56:54Z" name="tearDown" finished-at="2021-08-17T09:56:55Z" duration-ms="776" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

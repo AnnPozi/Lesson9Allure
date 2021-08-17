@@ -11,12 +11,12 @@
         </parameter>
     </test>
 
-    <test name="FirefoxTest" verbose="1" parallel="true">
-        <parameter name="browserName" value="firefox">
-            <classes>
-                <class name="registrationTests.RegistrationTest"/>
-            </classes>
-        </parameter>
-    </test>
+<!--    <test name="FirefoxTest" verbose="1" parallel="true">-->
+<!--        <parameter name="browserName" value="firefox">-->
+<!--            <classes>-->
+<!--                <class name="registrationTests.RegistrationTest"/>-->
+<!--            </classes>-->
+<!--        </parameter>-->
+<!--    </test>-->
 
 </suite>

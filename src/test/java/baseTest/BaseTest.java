@@ -36,10 +36,10 @@ public class BaseTest {
     public BaseTest() {
     }
 
-    @Parameters("browser")
+    @Parameters({"browser"})
     @BeforeClass(alwaysRun = true)
     @Step("Set up browser options {browser}")
-    public void setUp(@Optional("chrome") String browser) {
+    public void setUp(String browser) {
         if (browser.toLowerCase().equals("chrome")) {
             File chrome = new File("/Users/apozina/IdeaProjects/lesson9/drivers/chromedriver");
             System.setProperty("webdriver.chrome.driver", chrome.getAbsolutePath());

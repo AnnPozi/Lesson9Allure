@@ -44,4 +44,9 @@ public class RegistrationTest extends BaseTest{
         mainPage.clickConfirmation("button[class='button btn btn-default button-medium'] span");
         mainPage.checkCompletion(".alert.alert-success");
     }
+
+    public void testNegative(){
+
+
+    }
 }
